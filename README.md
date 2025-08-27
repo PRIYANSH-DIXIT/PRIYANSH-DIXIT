@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PRIYANSH-DIXIT
 - 👀 I’m interested in DATA SCIENCE and Machine Learning 
-- 🌱 I’m currently learning DEEP LEARNING
+- 🌱 I have done my Internship at EXXON MOBIL , BTC.
 - 💞️ I’m looking to collaborate on PROJECTS AND INTERNSHIP 
 - 📫 My email id :- priyanshdixit27@gmail.com
 - 📱 my phone number :- 9352068412
