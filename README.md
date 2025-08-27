@@ -1,13 +1,33 @@
-- 👋 Hi, I’m @PRIYANSH-DIXIT
-- 👀 I’m interested in DATA SCIENCE and Machine Learning 
-- 🌱 I have done my Internship at EXXON MOBIL , BTC.
-- 💞️ I’m looking to collaborate on PROJECTS AND INTERNSHIP 
-- 📫 My email id :- priyanshdixit27@gmail.com
-- 📱 my phone number :- 9352068412
-- 😄 Pronouns: He /Him
-- ⚡ Fun fact: I am a jack of all trades but a master of Pun
+Hi there, I'm Priyansh Dixit 👋
+🎯 Aspiring Data Scientist | 📊 Data Analyst | 🐍 Python Enthusiast
+👩‍💻 About Me
+I'm a passionate and curious Data Science learner who loves turning messy data into meaningful insights. Currently working on real-world datasets using Python, Pandas, and Matplotlib.
+•	🔍 Interested in Data Analysis, Machine Learning & Visualization
 
-<!---
-PRIYANSH-DIXIT/PRIYANSH-DIXIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+•	💻 Comfortable with Jupyter Notebooks, NumPy, pandas, Seaborn, and Matplotlib
+
+•	📚 Currently learning: Generative AI
+
+•	🎓 Looking for full time opportunities and collaborative open-source projects
+🚀 Tech Stack
+Python
+Python
+pandas
+pandas
+NumPy
+NumPy
+Matplotlib
+Matplotlib
+Seaborn
+Seaborn
+Jupyter
+Jupyter
+SQL
+SQL
+
+📈 GitHub Stats
+📬 Contact Me
+•	📧 Email: priyanshdixit27@gmail.com
+•	💼 LinkedIn: Priyansh Dixit
+🙌 Let's Connect!
+If you like my work or want to collaborate on data projects, feel free to reach out. Always happy to connect with fellow learners and data lovers! 🌟 💬 Open to internships, collaborations, and freelance data analysis projects.
