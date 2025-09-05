@@ -9,9 +9,9 @@
 --- 
 
 ### 🔥 My Stats 
-<img width="400"  src="https://github-readme-stats.vercel.app/api?username=Priyansh Dixit&show_icons=true&theme=blue-green" /> <img width="415" src="https://streak-stats.demolab.com/?user=Priyansh Dixit&theme=blue-green" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyansh Dixit&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Priyansh Dixit&theme=blue-green&line_height=20&hide=css"/> </a>
+<img width="400"  src="https://github-readme-stats.vercel.app/api?username=PRIYANSH-DIXIT&show_icons=true&theme=blue-green" /> <img width="415" src="https://streak-stats.demolab.com/?user=PRIYANSH-DIXIT&theme=blue-green" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=PRIYANSH-DIXIT&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PRIYANSH-DIXIT&theme=blue-green&line_height=20&hide=css"/> </a>
  
 
 ---
@@ -27,7 +27,9 @@
  
 </div>
 My personal mail id: priyanshdixit27@gmail.com
-My Email ID - priyanshd24@iitk.ac.in
+
+
+My college email id - priyanshd24@iitk.ac.in
 ---
 ### 🔗 Social info
 
