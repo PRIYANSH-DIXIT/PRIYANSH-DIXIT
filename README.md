@@ -26,10 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
  
 </div>
-My personal mail id: priyanshdixit27@gmail.com
 
+My college email id - priyanshdixit27@gmail.com
 
-My college email id - priyanshd24@iitk.ac.in
 ---
 ### 🔗 Social info
 
