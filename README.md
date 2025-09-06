@@ -27,7 +27,7 @@
  
 </div>
 
-My college email id - priyanshdixit27@gmail.com
+My email id - priyanshdixit27@gmail.com
 
 ---
 ### 🔗 Social info
